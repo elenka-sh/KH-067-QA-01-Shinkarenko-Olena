@@ -16,4 +16,5 @@
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out
-/.idea
+**/.idea
+**/*.iml
